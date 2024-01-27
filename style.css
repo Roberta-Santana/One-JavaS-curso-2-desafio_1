@@ -1,7 +1,7 @@
 header {
   text-align: center;
   font-size: 30px;
-  color: #279EFF;
+  color:  #3498db;
 }
 
 main, html {
@@ -11,12 +11,12 @@ main, html {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #0C356A;
+  background-color: #071931;
 }
 
 .container {
   text-align: center;
-  color: #279EFF;
+  color: #196bad;
 }
 
 .button {
@@ -30,6 +30,6 @@ main, html {
 }
 
 .button:hover {
-  background-color: #2980b9;
+  background-color:  #27ff27;
 }
 

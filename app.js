@@ -1,5 +1,5 @@
 let titulo = document.querySelector('h1');
-titulo.innerHTML = 'Hora do Desafio';
+titulo.innerHTML = 'Hora do Desafio - Git Commit';
 
 function consoleButton(){
     console.log('O botão Console foi clicado');
